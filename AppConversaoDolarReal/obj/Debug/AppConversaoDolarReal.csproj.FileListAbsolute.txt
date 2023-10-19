@@ -1,0 +1,11 @@
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\bin\Debug\AppConversaoDolarReal.exe.config
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\bin\Debug\AppConversaoDolarReal.exe
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\bin\Debug\AppConversaoDolarReal.pdb
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.csproj.AssemblyReference.cache
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.csproj.SuggestedBindingRedirects.cache
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.Form1.resources
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.Properties.Resources.resources
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.csproj.GenerateResource.cache
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.csproj.CoreCompileInputs.cache
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.exe
+C:\Users\15962013638.CAMPUS-MCH\Documents\c#\AppConversaoDolarReal\AppConversaoDolarReal\obj\Debug\AppConversaoDolarReal.pdb
